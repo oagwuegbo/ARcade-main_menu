@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARcade-master.Plugins", "ARcade-master.Plugins.csproj", "{B11976D4-5C4A-FAAC-BC5E-DD93B33F9F18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARcade-master", "ARcade-master.csproj", "{7105AF7E-D363-FF22-8A3D-D040D5ADCF12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARcade-master.Editor.Plugins", "ARcade-master.Editor.Plugins.csproj", "{38082F63-E7E0-DE78-8978-5F27712A22B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARcade-master.Editor", "ARcade-master.Editor.csproj", "{8AF7488A-766F-02A6-2071-A4661B1D451A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B11976D4-5C4A-FAAC-BC5E-DD93B33F9F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B11976D4-5C4A-FAAC-BC5E-DD93B33F9F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B11976D4-5C4A-FAAC-BC5E-DD93B33F9F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B11976D4-5C4A-FAAC-BC5E-DD93B33F9F18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7105AF7E-D363-FF22-8A3D-D040D5ADCF12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7105AF7E-D363-FF22-8A3D-D040D5ADCF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7105AF7E-D363-FF22-8A3D-D040D5ADCF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7105AF7E-D363-FF22-8A3D-D040D5ADCF12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38082F63-E7E0-DE78-8978-5F27712A22B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38082F63-E7E0-DE78-8978-5F27712A22B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38082F63-E7E0-DE78-8978-5F27712A22B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38082F63-E7E0-DE78-8978-5F27712A22B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AF7488A-766F-02A6-2071-A4661B1D451A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF7488A-766F-02A6-2071-A4661B1D451A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF7488A-766F-02A6-2071-A4661B1D451A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF7488A-766F-02A6-2071-A4661B1D451A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
